@@ -10874,7 +10874,7 @@
 											"font": "Arial;13;1",
 											"left": 533,
 											"top": 647,
-											"width": 149.2333984375,
+											"width": 152.84521484375,
 											"height": 13,
 											"text": "Devoir"
 										},
@@ -10909,7 +10909,7 @@
 									"font": "Arial;13;0",
 									"left": 528,
 									"top": 640,
-									"width": 159.2333984375,
+									"width": 162.84521484375,
 									"height": 25,
 									"stereotypeLabel": {
 										"$ref": "AAAAAAF73jbyGXVSvto="
@@ -10946,7 +10946,7 @@
 											"font": "Arial;13;0",
 											"left": 533,
 											"top": 670,
-											"width": 149.2333984375,
+											"width": 152.84521484375,
 											"height": 13,
 											"text": "+nom: String",
 											"horizontalAlignment": 0
@@ -10963,7 +10963,7 @@
 											"font": "Arial;13;0",
 											"left": 533,
 											"top": 685,
-											"width": 149.2333984375,
+											"width": 152.84521484375,
 											"height": 13,
 											"text": "+consignes: String",
 											"horizontalAlignment": 0
@@ -10980,7 +10980,7 @@
 											"font": "Arial;13;0",
 											"left": 533,
 											"top": 700,
-											"width": 149.2333984375,
+											"width": 152.84521484375,
 											"height": 13,
 											"text": "+deadline: Date",
 											"horizontalAlignment": 0
@@ -10997,7 +10997,7 @@
 											"font": "Arial;13;0",
 											"left": 533,
 											"top": 715,
-											"width": 149.2333984375,
+											"width": 152.84521484375,
 											"height": 13,
 											"text": "+points: int",
 											"horizontalAlignment": 0
@@ -11042,7 +11042,7 @@
 									"font": "Arial;13;0",
 									"left": 528,
 									"top": 665,
-									"width": 159.2333984375,
+									"width": 162.84521484375,
 									"height": 68
 								},
 								{
@@ -11085,16 +11085,16 @@
 											"font": "Arial;13;0",
 											"left": 533,
 											"top": 740,
-											"width": 149.2333984375,
+											"width": 152.84521484375,
 											"height": 13,
-											"text": "+createRendu(Etudiant e)",
+											"text": "+createRendu(e: Etudiant)",
 											"horizontalAlignment": 0
 										}
 									],
 									"font": "Arial;13;0",
 									"left": 528,
 									"top": 733,
-									"width": 159.2333984375,
+									"width": 162.84521484375,
 									"height": 25
 								},
 								{
@@ -11134,7 +11134,7 @@
 							"containerChangeable": true,
 							"left": 528,
 							"top": 640,
-							"width": 159.2333984375,
+							"width": 162.84521484375,
 							"height": 133,
 							"nameCompartment": {
 								"$ref": "AAAAAAF73jbyGXVRHgo="
@@ -11533,7 +11533,7 @@
 									},
 									"visible": false,
 									"font": "Arial;13;0",
-									"left": 648,
+									"left": 649,
 									"top": 593,
 									"height": 13,
 									"alpha": 0.7853981633974483,
@@ -11554,7 +11554,7 @@
 									},
 									"visible": false,
 									"font": "Arial;13;0",
-									"left": 677,
+									"left": 678,
 									"top": 622,
 									"height": 13,
 									"alpha": -0.5235987755982988,
@@ -11661,7 +11661,7 @@
 								"$ref": "AAAAAAF73jbyGXVQj+E="
 							},
 							"lineStyle": 1,
-							"points": "655:639;685:598",
+							"points": "656:639;685:598",
 							"showVisibility": true,
 							"nameLabel": {
 								"$ref": "AAAAAAF73jiViXaa+TM="
@@ -13876,8 +13876,10 @@
 									"_parent": {
 										"$ref": "AAAAAAF8AmA+pXJRgmY="
 									},
-									"name": "Etudiant e",
-									"type": ""
+									"name": "e",
+									"type": {
+										"$ref": "AAAAAAF73eH5LCuUQPg="
+									}
 								}
 							]
 						}

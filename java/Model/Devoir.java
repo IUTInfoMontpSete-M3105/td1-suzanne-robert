@@ -38,7 +38,7 @@ public class Devoir {
     /**
      * @param Etudiant e
      */
-    public void createRendu(void Etudiant e) {
+    public void createRendu(Etudiant e) {
         // TODO implement here
     }
 
