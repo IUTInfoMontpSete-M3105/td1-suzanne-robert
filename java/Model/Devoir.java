@@ -32,16 +32,6 @@ public class Devoir {
      */
     public int points;
 
-    /**
-     * 
-     */
-    public void Attribute4;
-
-    /**
-     * 
-     */
-    public void Attribute5;
-
 
 
 

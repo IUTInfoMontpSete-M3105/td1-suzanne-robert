@@ -17,7 +17,7 @@ public class Administrateur extends Utilisateur {
      * @param Enseignant e 
      * @return
      */
-    public Cours creerCours(void String nom, void Enseignant e) {
+    public Cours creerCours(String nom, Enseignant e) {
         // TODO implement here
         return null;
     }
