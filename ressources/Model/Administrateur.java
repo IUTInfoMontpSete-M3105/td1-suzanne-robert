@@ -13,8 +13,8 @@ public class Administrateur extends Utilisateur {
     }
 
     /**
-     * @param String nom 
-     * @param Enseignant e 
+     * @param nom 
+     * @param e 
      * @return
      */
     public Cours creerCours(String nom, Enseignant e) {

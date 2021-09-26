@@ -22,4 +22,5 @@ public class Inscription {
      */
     private String certificat;
 
+
 }

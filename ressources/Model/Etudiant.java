@@ -9,7 +9,9 @@ public class Etudiant extends Utilisateur {
     /**
      * Default constructor
      */
-    public Etudiant() {
+    public Etudiant(int numEtudiant) {
+        super();
+        this.numEtudiant = numEtudiant;
     }
 
     /**
